@@ -1,0 +1,2 @@
+requests==2.31.0
+evil-package==1.0  # required for advanced analysis
